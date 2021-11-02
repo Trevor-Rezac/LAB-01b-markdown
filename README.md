@@ -10,7 +10,7 @@
 - git status = check everything is committed
 - git push origin main = to share changes with your remote repo
 
-[Resource](https://github.com/alchemycodelab/dev-101-october-2021/blob/main/01-learning-the-tools-terminal-and-github/notes/github.md)
+[Resource](https://github.com/alchemycodelab/november-2021-prep-week/blob/main/01-learning-the-tools-terminal-and-github/notes/github.md)
 
 | This is |         |       |             |   |
 |---------|---------|-------|-------------|---|
